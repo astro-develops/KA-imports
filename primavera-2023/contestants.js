@@ -511,17 +511,17 @@ var contestants = [{
 }]
 
 contestants.push(
-//   {
-//   name: "Reflex",
-//   kaid: "https://khanacademy.org/profile/kaid_66224682886095078267924",
-//   level: 2,
-//   team: "Virtus",
-// }, {
-//   name: "Invisible Bob",
-//   kaid: "https://khanacademy.org/profile/kaid_4357452902529547972393951",
-//   level: 1,
-//   team: "Altum",
-// }, 
+  {
+  name: "Reflex",
+  kaid: "https://khanacademy.org/profile/kaid_66224682886095078267924",
+  level: 2,
+  team: "Virtus",
+}, {
+  name: "Invisible Bob",
+  kaid: "https://khanacademy.org/profile/kaid_4357452902529547972393951",
+  level: 1,
+  team: "Altum",
+}, 
  {
   name: "≁⋆Ţἷƒƒ⋆≁",
   kaid: "https://khanacademy.org/profile/kaid_4408766809036862538405271",
