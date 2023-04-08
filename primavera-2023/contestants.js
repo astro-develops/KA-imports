@@ -552,4 +552,10 @@ contestants.push(
   kaid: "https://khanacademy.org/profile/kaid_1191657490399007636732524",
   level: 2,
   team: "Magus",
-}, );
+}, {
+  name: "Developer", 
+  kaid: "https://khanacademy.org/profile/kaid_7063807133708579591783671", 
+  level: 3, 
+  team: "Opes"
+},
+);
