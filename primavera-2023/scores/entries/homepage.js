@@ -213,4 +213,9 @@ var entries = [
     link: "https://www.khanacademy.org/computer-programming/team-opes-homepage/6204874342842368",
     team: "Opes",
   },
+  {
+    names: ["LeaferStudios"],
+    link: "https://www.khanacademy.org/computer-programming/team-opes-homepage-2023/5236237205291008",
+    team: "Opes",
+  },
 ];
