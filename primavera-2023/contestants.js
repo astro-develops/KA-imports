@@ -633,8 +633,14 @@ var contestants = [{
     kaid: "https://khanacademy.org/profile/kaid_47426498467631603567904",
     level: 1,
     team: "Opes"
-  }
-];
+  },
+  {
+    name: "Edmund Knight.Studios??", 
+    kaid: "https://khanacademy.org/profile/kaid_490411598901117969315817", 
+    level: 1, 
+    team: "Opes"
+  },
+                  ];
 
 contestants.push({
   name: "Reflex",
