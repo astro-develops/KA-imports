@@ -197,11 +197,6 @@ var entries = [
     team: "Magus",
   },
   {
-    names: ["Cooke's"],
-    link: "https://www.khanacademy.org/computer-programming/quicky-graphic-magus/6113895556366336",
-    team: "Magus",
-  },
-  {
     names: ["The No-Sock Guy"],
     link: "https://www.khanacademy.org/computer-programming/garbage-program-lol/4583533726449664?width=800",
     team: "Magus",
