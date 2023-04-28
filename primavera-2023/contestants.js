@@ -640,7 +640,7 @@ var contestants = [{
     level: 1, 
     team: "Opes"
   },
-                  ];
+{name: "gamer guy(bio)", kaid: "https://khanacademy.org/profile/kaid_3466142802132203951568286", level: 1, team: "Magus"},{name: "6ProUp4 #icicle #AviconazulForever", kaid: "https://khanacademy.org/profile/kaid_652619832726543125878883", level: 2, team: "Altum"},{name: "Aragorn Elessar (Offline)", kaid: "https://khanacademy.org/profile/kaid_714276242204949021450419", level: 2, team: "Aequor"},{name: "LJE", kaid: "https://khanacademy.org/profile/kaid_1034761647362147362261181", level: 2, team: "cinis"},{name: "VALUEX", kaid: "https://khanacademy.org/profile/kaid_1105212587483784100819076", level: 2, team: "Virtus"},{name: "Pleconerd", kaid: "https://khanacademy.org/profile/kaid_2541335341957759377664349", level: 1, team: "altum"}                  ];
 
 contestants.push({
   name: "Reflex",
